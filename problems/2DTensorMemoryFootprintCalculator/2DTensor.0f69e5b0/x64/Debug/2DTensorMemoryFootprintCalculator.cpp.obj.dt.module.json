@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "2DTensor.0f69e5b0\\x64\\Debug\\2DTensorMemoryFootprintCalculator.obj",
+            "outputs": [
+                "2DTensor.0f69e5b0\\x64\\Debug\\2DTensorMemoryFootprintCalculator.cpp.obj.dt.module.json",
+                "2DTensor.0f69e5b0\\x64\\Debug\\2DTensorMemoryFootprintCalculator.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

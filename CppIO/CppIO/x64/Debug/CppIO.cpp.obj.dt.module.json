@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CppIO\\x64\\Debug\\CppIO.obj",
+            "outputs": [
+                "CppIO\\x64\\Debug\\CppIO.cpp.obj.dt.module.json",
+                "CppIO\\x64\\Debug\\CppIO.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
