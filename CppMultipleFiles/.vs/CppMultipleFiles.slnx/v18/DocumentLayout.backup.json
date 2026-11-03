@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Learning\\learning_cpp\\CppMultipleFiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A1B175-BC6A-4B64-A6E4-D0B46CA0224B}|CppMultipleFiles.vcxproj|D:\\Programming\\Learning\\learning_cpp\\CppMultipleFiles\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35A1B175-BC6A-4B64-A6E4-D0B46CA0224B}|CppMultipleFiles.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35A1B175-BC6A-4B64-A6E4-D0B46CA0224B}|CppMultipleFiles.vcxproj|D:\\Programming\\Learning\\learning_cpp\\CppMultipleFiles\\Add.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35A1B175-BC6A-4B64-A6E4-D0B46CA0224B}|CppMultipleFiles.vcxproj|solutionrelative:Add.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cpp",
+              "DocumentMoniker": "D:\\Programming\\Learning\\learning_cpp\\CppMultipleFiles\\Add.cpp",
+              "RelativeDocumentMoniker": "Add.cpp",
+              "ToolTip": "D:\\Programming\\Learning\\learning_cpp\\CppMultipleFiles\\Add.cpp",
+              "RelativeToolTip": "Add.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-03T15:38:14.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "D:\\Programming\\Learning\\learning_cpp\\CppMultipleFiles\\Main.cpp",
+              "RelativeDocumentMoniker": "Main.cpp",
+              "ToolTip": "D:\\Programming\\Learning\\learning_cpp\\CppMultipleFiles\\Main.cpp",
+              "RelativeToolTip": "Main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-03T15:37:28.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

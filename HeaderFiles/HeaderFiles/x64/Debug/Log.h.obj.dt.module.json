@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "HeaderFiles\\x64\\Debug\\Log.obj",
+            "outputs": [
+                "HeaderFiles\\x64\\Debug\\Log.h.obj.dt.module.json",
+                "HeaderFiles\\x64\\Debug\\Log.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
