@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Conditio.9b85350e\\x64\\Debug\\SwitchCase.obj",
+            "outputs": [
+                "Conditio.9b85350e\\x64\\Debug\\SwitchCase.cpp.obj.dt.module.json",
+                "Conditio.9b85350e\\x64\\Debug\\SwitchCase.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

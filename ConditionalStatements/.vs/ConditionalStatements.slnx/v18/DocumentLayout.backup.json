@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\Learning\\learning_cpp\\ConditionalStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B85350E-F141-44FE-8E41-1656BB70E8AA}|ConditionalStatements.vcxproj|D:\\Programming\\Learning\\learning_cpp\\ConditionalStatements\\SwitchCase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B85350E-F141-44FE-8E41-1656BB70E8AA}|ConditionalStatements.vcxproj|solutionrelative:SwitchCase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B85350E-F141-44FE-8E41-1656BB70E8AA}|ConditionalStatements.vcxproj|D:\\Programming\\Learning\\learning_cpp\\ConditionalStatements\\IfElse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B85350E-F141-44FE-8E41-1656BB70E8AA}|ConditionalStatements.vcxproj|solutionrelative:IfElse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchCase.cpp",
+              "DocumentMoniker": "D:\\Programming\\Learning\\learning_cpp\\ConditionalStatements\\SwitchCase.cpp",
+              "RelativeDocumentMoniker": "SwitchCase.cpp",
+              "ToolTip": "D:\\Programming\\Learning\\learning_cpp\\ConditionalStatements\\SwitchCase.cpp",
+              "RelativeToolTip": "SwitchCase.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-07T05:24:53.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IfElse.cpp",
+              "DocumentMoniker": "D:\\Programming\\Learning\\learning_cpp\\ConditionalStatements\\IfElse.cpp",
+              "RelativeDocumentMoniker": "IfElse.cpp",
+              "ToolTip": "D:\\Programming\\Learning\\learning_cpp\\ConditionalStatements\\IfElse.cpp*",
+              "RelativeToolTip": "IfElse.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-07T05:22:58.6Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
