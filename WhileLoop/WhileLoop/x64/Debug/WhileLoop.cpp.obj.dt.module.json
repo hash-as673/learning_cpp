@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "WhileLoop\\x64\\Debug\\WhileLoop.obj",
+            "outputs": [
+                "WhileLoop\\x64\\Debug\\WhileLoop.cpp.obj.dt.module.json",
+                "WhileLoop\\x64\\Debug\\WhileLoop.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

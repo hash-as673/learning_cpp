@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Typecasting\\x64\\Debug\\Typecasting.obj",
+            "outputs": [
+                "Typecasting\\x64\\Debug\\Typecasting.cpp.obj.dt.module.json",
+                "Typecasting\\x64\\Debug\\Typecasting.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "UserDefi.fa4b5911\\x64\\Debug\\UserDefinedNamespace.obj",
+            "outputs": [
+                "UserDefi.fa4b5911\\x64\\Debug\\UserDefinedNamespace.cpp.obj.dt.module.json",
+                "UserDefi.fa4b5911\\x64\\Debug\\UserDefinedNamespace.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

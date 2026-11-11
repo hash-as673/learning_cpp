@@ -1,5 +1,10 @@
 #include<iostream>
 
+
+namespace Foo {
+	int g_x{ 1 };
+}
+
 int main() {
 
 	[[maybe_unused]] double pi{ 3.14 };
@@ -27,5 +32,6 @@ int main() {
 	std::cout << ii << '\n';
 	std::cout << gravity << '\n';
 	std::cout << protonCharge << '\n';
+	std::cout << Foo::g_x << '\n';
 	return 0;
 }
