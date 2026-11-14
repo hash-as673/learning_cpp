@@ -1,4 +1,0 @@
-﻿  Variables.cpp
-D:\Programming\Learning\learning_cpp\Variables\Variables.cpp(14,10): warning C4305: 'initializing': truncation from 'double' to 'float'
-D:\Programming\Learning\learning_cpp\Variables\Variables.cpp(19,12): warning C4305: 'initializing': truncation from 'double' to 'float'
-  Variables.vcxproj -> D:\Programming\Learning\learning_cpp\Variables\x64\Debug\Variables.exe
