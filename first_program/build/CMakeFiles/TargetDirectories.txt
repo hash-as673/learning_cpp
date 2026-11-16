@@ -1,0 +1,3 @@
+/home/hash-as673/Programming/learning_cpp/first_program/build/CMakeFiles/first_program.dir
+/home/hash-as673/Programming/learning_cpp/first_program/build/CMakeFiles/edit_cache.dir
+/home/hash-as673/Programming/learning_cpp/first_program/build/CMakeFiles/rebuild_cache.dir

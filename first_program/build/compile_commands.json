@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/hash-as673/Programming/learning_cpp/first_program/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/first_program.dir/main.cpp.o -c /home/hash-as673/Programming/learning_cpp/first_program/main.cpp",
+  "file": "/home/hash-as673/Programming/learning_cpp/first_program/main.cpp",
+  "output": "CMakeFiles/first_program.dir/main.cpp.o"
+}
+]
